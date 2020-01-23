@@ -6,5 +6,3 @@ This assignment is practice for Book 0: Chapter 0 of NSS's course work. Link to 
 
 Preview Assignment: 
 ***
-# nss-js-filter-solar-system
-# nss-js-filter-solar-system
