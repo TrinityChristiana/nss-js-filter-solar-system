@@ -42,3 +42,12 @@ console.log(capitalPlanets);
 
     https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/includes
 */
+
+const letterE = planets.filter(element => {
+
+    if (element.includes("e")) {
+        return element;
+    }
+});
+
+console.log(letterE);
